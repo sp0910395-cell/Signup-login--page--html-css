@@ -1,0 +1,59 @@
+body{
+    background-image: url(traval.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: 100vh;
+   margin: 0%;
+}
+
+#btn{
+    background-color: rgb(24, 24, 240);
+    color: white;
+    border-radius: 5px;
+}
+#log{
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+}
+
+.inputbtn{
+    background-color:white;
+    border-radius: 2px;
+    color: black;
+    border: 2px solid black;
+}
+.signbtn{
+    background-color:rgb(24, 24, 240);
+    color: white;
+    width: 175px;
+    border-radius: 7px;
+}
+
+.myclass{
+   background-color: white;
+   margin-right: 970px; 
+   text-align: center;
+   margin-left: 970px;
+   padding: 20px 30px 20px 30px;
+   border-radius: 17px;
+   border:1px solid black
+}
+.myform{
+    font-family: sans-serif;
+    font-size: 10px;
+}
+#myid{
+     font-size: 10px;
+     font-weight: bolder;
+
+}
+#designed{
+      font-size: 5px;
+      font-weight: bolder;
+      text-decoration: underline;
+}
